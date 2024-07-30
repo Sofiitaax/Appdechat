@@ -1,9 +1,9 @@
 # Appdechat
 Esta aplicación es un simple chat de consola implementado en C#. Permite enviar y recibir mensajes entre diferentes terminales que se ejecutan en distintos puertos.
-#Requisitos
+# Requisitos
 - .NET SDK instalado.
 - Un entorno de desarrollo compatible.
-#Instalación
+# Instalación
 1. Clonar este repositorio o descargar.
 2. Abrir el proyecto en el entorno de desarrollo de preferencia.
 # Uso
